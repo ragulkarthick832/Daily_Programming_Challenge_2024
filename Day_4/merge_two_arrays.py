@@ -6,7 +6,7 @@ constraint : time complexity - O(m log m + n log n), space complexity - O(1)
 
 """
 
-# Used Summation of n integers formula to find the missing number
+# Used Two pointer concept
 
 # O(m log m + n log n)
 def merge_two_arrs(arr1, arr2):
